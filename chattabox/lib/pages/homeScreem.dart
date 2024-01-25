@@ -28,7 +28,7 @@ class _HomeScreenState extends State<HomeScreen> {
             },
             child: const CardItem(
               title: 'Find Friends',
-              icon: Icons.people,
+              icon: Icons.search,
             ),
           ),
           GestureDetector(
