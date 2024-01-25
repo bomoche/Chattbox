@@ -13,7 +13,7 @@ class CardItem extends StatelessWidget {
   Widget build(BuildContext context) {
     return Card(
       elevation: 5,
-      margin: EdgeInsets.all(16),
+      margin: const EdgeInsets.all(16),
       color: const Color(0xff1E2E3D),
       child: Column(
         children: [
